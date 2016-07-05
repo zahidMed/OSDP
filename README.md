@@ -1,1 +1,1 @@
-# OSDP
+# Open Service Delivery Platform
